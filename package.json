@@ -1,5 +1,5 @@
 {
-  "name": "gae-hello-world",
+  "name": "gae-profile",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LittleFireflies/gae-hello-world.git"
+    "url": "git+https://github.com/Xrayya/dicoding-dicoding-cloud-engineer-first-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LittleFireflies/gae-hello-world/issues"
+    "url": "https://github.com/Xrayya/dicoding-dicoding-cloud-engineer-first-project/issues"
   },
-  "homepage": "https://github.com/LittleFireflies/gae-hello-world#readme",
+  "homepage": "https://github.com/Xrayya/dicoding-dicoding-cloud-engineer-first-project#readme",
   "dependencies": {
     "express": "^4.16.4"
   }
